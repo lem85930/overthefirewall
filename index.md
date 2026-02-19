@@ -316,9 +316,9 @@ TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shi
 <span id="Clash_Verge_rev"></span>
 + <font size="5">Clash Verge rev</font> ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
 
-[从release页面下载](https://github.com/wonfen/clash-verge-rev/releases)
+[从release页面下载](github.com/clash-verge-rev/clash-verge-rev/releases)
 
-[项目地址 wonfen/clash-verge-rev](https://github.com/wonfen/clash-verge-rev)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+[项目地址 wonfen/clash-verge-rev](github.com/clash-verge-rev/clash-verge-rev)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 <span id="Clash_Nyanpasu"></span>
 + <font size="5">Clash Nyanpasu</font> ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
