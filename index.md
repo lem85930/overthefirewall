@@ -29,33 +29,49 @@ layout: default
 <span id="ads"></span>
 # 赞助商广告
 
-[<font size="5">Nanocloud</font>](sponsor/sponsor_7.html) ![tuijian](assets/min-tuijian.svg)
+[<font size="5">Nanocloud</font>](sponsor/sponsor_7.html) ![tuijian](assets/min-tuijian.svg) ![直连](https://img.shields.io/badge/便宜大碗-直连-orange)
 
 亏本运营，节点质量同价位找不到第二家
 
-[<font size="5">Sausage Cloud</font>](sponsor/sponsor_3.html) ![tuijian](assets/min-tuijian.svg)
+[<font size="5">天枢互联</font>](sponsor/sponsor.html) ![tuijian](assets/min-tuijian.svg) ![专线](https://img.shields.io/badge/尊贵轻奢-专线-purple)
+
+全球网络中继服务,随时随处尽情使用
+
+[<font size="5">Sausage Cloud</font>](sponsor/sponsor_3.html) ![tuijian](assets/min-tuijian.svg) ![中转](https://img.shields.io/badge/经济适用-中转-blue)
 
 高性价比网络中继服务，随时随处尽情使用
 
-[<font size="5">奥创</font>](sponsor/sponsor_14.html) ![tuijian](assets/min-tuijian.svg)
+[<font size="5">奥创</font>](sponsor/sponsor_14.html) ![tuijian](assets/min-tuijian.svg) ![专线](https://img.shields.io/badge/尊贵轻奢-专线-purple)
 
 完美运营三周年，让您畅游全球网络
 
-[<font size="5">青云梯</font>](sponsor/sponsor_13.html)
+[<font size="5">万达云</font>](sponsor/sponsor_11.html) ![tuijian](assets/min-tuijian.svg) ![专线](https://img.shields.io/badge/尊贵轻奢-专线-purple)
+
+多地区自有硬件服务器
+
+[<font size="5">兔兔云</font>](sponsor/sponsor_17.html) ![tuijian](assets/min-tuijian.svg) ![专线](https://img.shields.io/badge/尊贵轻奢-专线-purple)
+
+让信息流动无阻碍，让世界更紧密相连！
+
+[<font size="5">FurYun</font>](sponsor/sponsor_18.html) ![中转](https://img.shields.io/badge/经济适用-中转-blue)
+
+小流量套餐
+
+[<font size="5">夏枫一汀</font>](sponsor/sponsor_19.html) ![中转](https://img.shields.io/badge/经济适用-中转-blue)
+
+新试用的机场
+
+[<font size="5">青云梯</font>](sponsor/sponsor_13.html) ![中转](https://img.shields.io/badge/经济适用-中转-blue)
 
 五年老牌专线，低至每个月八元的专线
 
-[<font size="5">银河云</font>](sponsor/sponsor_16.html)
+[<font size="5">银河云</font>](sponsor/sponsor_16.html) ![中转](https://img.shields.io/badge/经济适用-中转-blue)
 
 新加坡海外团队大机房产品，性价比专线
 
-[<font size="5">瀚海舟</font>](sponsor/sponsor_15.html) ![tuijian](assets/min-tuijian.svg)
+[<font size="5">瀚海舟</font>](sponsor/sponsor_15.html)
 
 助您航行数据汪洋，安全隐匿，自由通达全球网络。
-
-[<font size="5">天枢互联</font>](sponsor/sponsor.html) ![tuijian](assets/min-tuijian.svg)
-
-全球网络中继服务,随时随处尽情使用
 
 [<font size="5">雲村YUNCUN</font>](sponsor/sponsor_2.html)
 
@@ -85,25 +101,9 @@ EdNovas is the best!
 
 致力于提供稳定高速的互联网服务
 
-[<font size="5">万达云</font>](sponsor/sponsor_11.html)
-
-多地区自有硬件服务器
-
 [<font size="5">轻舞云</font>](sponsor/sponsor_12.html)
 
 大陆首选 亚洲区最佳 VPN
-
-[<font size="5">兔兔云</font>](sponsor/sponsor_17.html)
-
-让信息流动无阻碍，让世界更紧密相连！
-
-[<font size="5">FurYun</font>](sponsor/sponsor_18.html)
-
-小流量套餐
-
-[<font size="5">夏枫一汀</font>](sponsor/sponsor_19.html)
-
-新试用的机场
 
 ***
 
